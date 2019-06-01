@@ -1,2 +1,2 @@
 # SmartCalc
-SmartCalc is nothing but an OCR calculator.
+SmartCalc is a simple OCR calculator.
