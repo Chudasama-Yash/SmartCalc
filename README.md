@@ -18,14 +18,14 @@ SmartCalc is an advanced calculator with OCR(Optical Character Recognition) feat
 
 ![Splash Screen](https://github.com/Chudasama-Yash/SmartCalc/blob/master/ScreenShots/Splash.png)
 </br>
-![Splash Screen](https://github.com/Chudasama-Yash/SmartCalc/blob/master/ScreenShots/StdCalc.png)
+![StdCalc](https://github.com/Chudasama-Yash/SmartCalc/blob/master/ScreenShots/StdCalc.png)
 </br>
-![Splash Screen](https://github.com/Chudasama-Yash/SmartCalc/blob/master/ScreenShots/ocr.png)
+![OCR](https://github.com/Chudasama-Yash/SmartCalc/blob/master/ScreenShots/ocr.png)
 </br>
-![Splash Screen](https://github.com/Chudasama-Yash/SmartCalc/blob/master/ScreenShots/hist.png)
+![History](https://github.com/Chudasama-Yash/SmartCalc/blob/master/ScreenShots/hist.png)
 </br>
-![Splash Screen](https://github.com/Chudasama-Yash/SmartCalc/blob/master/ScreenShots/NavBar.png)
+![Navigation](https://github.com/Chudasama-Yash/SmartCalc/blob/master/ScreenShots/NavBar.png)
 </br>
-![Splash Screen](https://github.com/Chudasama-Yash/SmartCalc/blob/master/ScreenShots/about.png)
+![About](https://github.com/Chudasama-Yash/SmartCalc/blob/master/ScreenShots/about.png)
 
 
